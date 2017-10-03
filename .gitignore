@@ -5,7 +5,7 @@ _public/
 coverage/
 
 # transpile file
-lib/
+# lib/ # need lib for the direct consumer apps using dependency as git+https://github.com/vivekmunde/react-semantify.git#master
 
 # gulpfile is transpile from gulpfile.babel.js
 gulpfile.js
